@@ -1,0 +1,4 @@
+#task_box{
+  height: 300px !important;
+  overflow-y: auto !important;
+}
