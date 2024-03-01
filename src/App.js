@@ -45,7 +45,7 @@ const App = () => {
             <div className="col-md-6">
               <div className="card rounded-3 border shadow">
                 <div className="card-header bg-dark py-2">
-                  <h1 className="text-center m-0 text-light">ToDO</h1>
+                  <h1 className="text-center m-0 text-light">Todo App</h1>
                 </div>
                 <div className="card-body">
                   <form onSubmit={SubmitHandler}>
